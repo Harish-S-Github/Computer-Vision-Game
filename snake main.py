@@ -12,7 +12,7 @@ pygame.mixer.init()
 
 
 # Load the background music
-pygame.mixer.music.load('Snake.io Music old new.mp3')
+pygame.mixer.music.load('background music')
 
 # Set the volume (optional)
 pygame.mixer.music.set_volume(0.8)
